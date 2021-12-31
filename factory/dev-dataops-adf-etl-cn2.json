@@ -1,0 +1,15 @@
+{
+	"name": "dev-dataops-adf-etl-cn2",
+	"location": "chinanorth2",
+	"identity": {
+		"type": "SystemAssigned,UserAssigned",
+		"principalId": "765980e0-d5b7-4d4c-b6d3-77719a4f3ff7",
+		"tenantId": "78c60b1a-3a93-4e0e-99ad-00dc772cfb6f",
+		"userAssignedIdentities": {
+			"/subscriptions/3d07553f-f6a8-455f-9de6-876fbcc00bb4/resourcegroups/Dev-DataOps-BigData/providers/Microsoft.ManagedIdentity/userAssignedIdentities/adf": {
+				"clientId": "90c6c25d-9389-4977-b96d-8aa946f850eb",
+				"principalId": "53df4771-772a-4602-90f8-1040302311de"
+			}
+		}
+	}
+}
